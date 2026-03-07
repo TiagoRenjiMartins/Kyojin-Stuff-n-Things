@@ -1,0 +1,87 @@
+{
+  "id": "kyojin-stuff-n-things",
+  "title": "Kyojin Stuff n Things",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Kyojin",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "Classes",
+      "label": "Kyojin - Classes",
+      "path": "packs/Classes",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Sub-Classes",
+      "label": "Kyojin - Sub-Classes",
+      "path": "packs/Sub-Classes",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Spells",
+      "label": "Kyojin - Spells",
+      "path": "packs/Spells",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Races",
+      "label": "Kyojin - Races",
+      "path": "packs/Races",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Sub-Races",
+      "label": "Kyojin - Sub-Races",
+      "path": "packs/Sub-Races",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ],
+  "url": "https://drive.google.com/drive/folders/171_Qpuz007_Qgh_XOGwO_tcBjBCj9b-D?usp=sharing",
+  "manifest": "https://drive.google.com/file/d/1jNPB_Cs7MVCsqDNMXPDYocgSwvFOLo_N/view?usp=drive_link",
+  "download": "https://drive.google.com/file/d/1j2jlQ7JNw5I4IM6f7Z9Hq5hJsl0Rvbxm/view?usp=drive_link",
+  "socket": true,
+  "relationships": {
+    "requires": []
+  }
+}
