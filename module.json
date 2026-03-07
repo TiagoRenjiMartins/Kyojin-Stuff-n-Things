@@ -77,9 +77,9 @@
       "flags": {}
     }
   ],
-  "url": "https://drive.google.com/drive/folders/171_Qpuz007_Qgh_XOGwO_tcBjBCj9b-D?usp=sharing",
+  "url": "https://github.com/TiagoRenjiMartins/Kyojin-Stuff-n-Things",
   "manifest": "https://github.com/TiagoRenjiMartins/Kyojin-Stuff-n-Things/blob/main/module.json",
-  "download": "https://drive.google.com/file/d/1j2jlQ7JNw5I4IM6f7Z9Hq5hJsl0Rvbxm/view?usp=drive_link",
+  "download": "https://github.com/TiagoRenjiMartins/Kyojin-Stuff-n-Things/blob/main/kyojin-stuff-n-things.zip",
   "socket": true,
   "relationships": {
     "requires": []
