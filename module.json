@@ -15,68 +15,72 @@
   "flags": {
     "canUpload": true
   },
-  "manifest": "https://github.com/TiagoRenjiMartins/Kyojin-Stuff-n-Things/blob/main/module.json",
-  "download": "https://github.com/TiagoRenjiMartins/Kyojin-Stuff-n-Things/blob/main/kyojin-stuff-n-things.zip",
+  "manifest": "https://github.com/TiagoRenjiMartins/Kyojin-Stuff-n-Things/releases/download/D%26D/module.json",
+  "download": "https://github.com/TiagoRenjiMartins/Kyojin-Stuff-n-Things/releases/download/D%26D/kyojin-stuff-n-things.zip",
   "packs": [
     {
       "name": "Classes",
       "label": "Kyojin - Classes",
       "path": "packs/Classes",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
+      }
       },
-      "system": "dnd5e",
-      "flags": {}
-    },
     {
       "name": "Sub-Classes",
       "label": "Kyojin - Sub-Classes",
       "path": "packs/Sub-Classes",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     },
     {
       "name": "Spells",
       "label": "Kyojin - Spells",
       "path": "packs/Spells",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     },
     {
       "name": "Races",
       "label": "Kyojin - Races",
       "path": "packs/Races",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     },
     {
       "name": "Sub-Races",
       "label": "Kyojin - Sub-Races",
       "path": "packs/Sub-Races",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-            "system": "dnd5e",
-            "flags": {}
+      }
         }
+    ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
     ]
+  }
 }
